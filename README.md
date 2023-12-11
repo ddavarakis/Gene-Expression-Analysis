@@ -1,4 +1,4 @@
-# Assignment-2-Gene-Expression-Analysis
+# Gene-Expression-Analysis
 
 To run the R script create two folders: 
 
